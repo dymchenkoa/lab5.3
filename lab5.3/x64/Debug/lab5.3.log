@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Student\lab5.3\lab5.3\lab5.3\Source.cpp(33,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  lab5.3.vcxproj -> D:\Student\lab5.3\lab5.3\x64\Debug\lab5.3.exe
